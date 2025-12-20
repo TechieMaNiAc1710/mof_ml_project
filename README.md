@@ -209,7 +209,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - **Bug Reports**: Use the [Bug Report](https://github.com/yourusername/mof_ml_project/issues/new?template=bug_report.md) template
 - **Feature Requests**: Use the [Feature Request](https://github.com/yourusername/mof_ml_project/issues/new?template=feature_request.md) template
 
-## 👥 Authors
+## 👥 Author
 
 - **Pratyush Bhartiya** - Initial work and research
 
